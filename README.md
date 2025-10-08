@@ -18,14 +18,14 @@ Um script simples, porém poderoso, que organiza automaticamente os arquivos de 
 
 1.  **Clone ou baixe o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git)
+    git clone [https://github.com/AugustoQueiroz13/Organizador-de-Arquivos-em-Python.git](https://github.comAugustoQueiroz13/Organizador-de-Arquivos-em-Python.git)
     ```
     Ou simplesmente baixe o arquivo `.py`.
 
 2.  **Execute o script:**
     Abra um terminal na pasta do projeto e execute o seguinte comando:
     ```bash
-    python nome_do_arquivo.py
+    python main.py
     ```
 
 3.  **Selecione a pasta:**
